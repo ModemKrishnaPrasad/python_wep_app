@@ -1,0 +1,8 @@
+cd projets 
+cd dev
+cd python_web_app
+git branch
+python3 app.py
+mkdir dev
+cd dev
+ls 
