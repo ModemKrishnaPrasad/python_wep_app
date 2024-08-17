@@ -1,9 +1,9 @@
 what is github
 
-hosting service for git rpositories
+hosting service for git repositories
 
-github is a cloud-based platformthat hosts git rpositories
+github is a cloud-based platform that hosts git repositories
 
-it provides a wab-based interface for git and adds additinal features like 
+it provides a web-based interface for git and adds additional features like 
 collaboration tools,bug tracking,feature requests,and project
 management.
